@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ex="http://earth.google.com/kml/ext">
+<Document id="1kXDDA2Y6CBoWfaVCmkUc3VgroQuL8zqD">
+	<ex:extension>base64;Co4BCoEBCn8KAggBEnkKdwokCiAKAwjQDxoHCNLtZRD_ASEAAAAAAADwPykAAAAAAAAAABgAEg8KCAitgO8HEP8BEKAfGAAaGgoHCP___wcQQBIICK2A7wcQ_wEYoB8gACgAIgkIARIFCP___wcqFwgBEggI____BxD_ARkAAAAAAADwPyAAEgQIARAAGgIIAA</ex:extension>
+	<name>EPOP</name>
+	<gx:CascadingStyle kml:id="__managed_style_08C5F3F231433F3ED424_highlight">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_08C5F3F231433F3ED424">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_08C5F3F231433F3ED424_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_08C5F3F231433F3ED424_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_08C5F3F231433F3ED424_normal">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0981766709433F3ED423_highlight">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0981766709433F3ED423_normal">
+		<ex:extension>base64;EgIYAQ</ex:extension>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0981766709433F3ED423">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0981766709433F3ED423_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0981766709433F3ED423_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="0B83AC01E8433F417EFC">
+		<name>EPOP</name>
+		<styleUrl>#__managed_style_0981766709433F3ED423</styleUrl>
+		<Folder id="18894BC4C6433F417EFC">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>Base</name>
+			<styleUrl>#__managed_style_0981766709433F3ED423</styleUrl>
+			<Placemark id="22AA472FE4433F417EFC">
+				<name>Base</name>
+				<LookAt>
+					<longitude>17.77895072731995</longitude>
+					<latitude>50.6378286844867</latitude>
+					<altitude>181.9623297911481</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>792.4185736695654</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.77677160844393,50.63763166546619,0 17.77487415991459,50.6343761923265,0 17.77153912008177,50.63059915329594,0 17.77233834408585,50.63008512056374,0 17.77457246857961,50.62951823925805,0 17.77787166713057,50.62893066552564,0 17.77876504347751,50.62877463662389,0 17.77906221910142,50.62929010544168,0 17.78408595133791,50.6280411770485,0 17.78573888948638,50.62656043400015,0 17.78709746545265,50.62719065162603,0 17.78527012010897,50.62875257025614,0 17.78521649948283,50.62890134465113,0 17.78604619335835,50.6304438007253,0 17.78516090416958,50.63099578980508,0 17.78650967948459,50.63304706952544,0 17.78869637427823,50.63254498316933,0 17.7896507177654,50.63398212201704,0 17.78694293017443,50.63483143992487,0 17.78708486337518,50.63508885975741,0 17.78340916439316,50.63619599212223,0 17.78153624906715,50.63667166918369,0 17.78116236848867,50.63666212573645,0 17.7796086496772,50.6369886737861,0 17.77911293509708,50.63697893759713,0 17.77677160844393,50.63763166546619,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="3FAB71C148433F417EFC">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>RWY Grass</name>
+			<styleUrl>#__managed_style_0981766709433F3ED423</styleUrl>
+			<Placemark id="449E2E82C5433F417EFC">
+				<name>RWY 13/31</name>
+				<LookAt>
+					<longitude>17.78424692862998</longitude>
+					<latitude>50.63010802611389</latitude>
+					<altitude>184.0466472975191</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>120.7552926643984</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.77805025986003,50.63480716958538,0 17.78443416315751,50.62989040999896,0 17.7852392509527,50.63031861496956,0 17.77885271005461,50.63522924023886,0 17.77805025986003,50.63480716958538,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="561755BDCD433F417EFC">
+				<name>RWY 07/25</name>
+				<LookAt>
+					<longitude>17.77878424881615</longitude>
+					<latitude>50.63261719249021</latitude>
+					<altitude>185.174449130699</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>870.6570634891978</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.7752064111862,50.63135959661452,0 17.775472825112,50.63075835217297,0 17.78555423347136,50.63258356664485,0 17.78529056825341,50.6331809505377,0 17.7752064111862,50.63135959661452,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="6FD4F7C39A433F417EFC">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>TWY</name>
+			<styleUrl>#__managed_style_0981766709433F3ED423</styleUrl>
+			<Placemark id="7211305A74433F417EFC">
+				<name>A</name>
+				<LookAt>
+					<longitude>17.78436533460063</longitude>
+					<latitude>50.62865734512985</latitude>
+					<altitude>186.0076214600788</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>83.89199303306668</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78444368125791,50.62866849920827,0 17.78430293718388,50.62860318633449,0 17.7855196367231,50.62754909523786,0 17.7856556525471,50.62761025572086,0 17.78444368125791,50.62866849920827,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="8C4C2016BD433F417EFC">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>TWY Grass</name>
+			<styleUrl>#__managed_style_0981766709433F3ED423</styleUrl>
+			<Placemark id="993E56F7EA433F417EFC">
+				<name>B</name>
+				<LookAt>
+					<longitude>17.78435552518515</longitude>
+					<latitude>50.62968708106894</latitude>
+					<altitude>184.391529909504</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>619.478452494659</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.7843811933348,50.62874781726222,0 17.78432020560561,50.62875749485781,0 17.78422373077457,50.62872077607793,0 17.78416076842921,50.62872206448437,0 17.78410694571964,50.6287710229215,0 17.78106997228467,50.63143088300992,0 17.78078042777498,50.63172402759337,0 17.7805115810944,50.63167419255501,0 17.78323283677214,50.62928767071885,0 17.78356409218875,50.62899901621115,0 17.78385704885548,50.62872641402353,0 17.78400264345701,50.62857986415365,0 17.78408326168435,50.62855543910509,0 17.78418313198849,50.62855314907658,0 17.7843030544684,50.62860322584559,0 17.78444336515949,50.628668468268,0 17.7843811933348,50.62874781726222,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="A6191182AA433F417EFC">
+				<name>C</name>
+				<LookAt>
+					<longitude>17.77987868377942</longitude>
+					<latitude>50.63587352128037</latitude>
+					<altitude>182.3030315922811</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>259.4301840306071</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.77875140833865,50.63517594750247,0 17.77885238711355,50.63522736802096,0 17.77897301537072,50.63513378474403,0 17.77902249629501,50.63528554108601,0 17.77905073066749,50.63532769341828,0 17.77909262795493,50.63536804218159,0 17.77916961654532,50.6354049033478,0 17.78094400699223,50.63623087084297,0 17.78103316734357,50.63625695638233,0 17.78110074173863,50.63626582834681,0 17.781325058791,50.63621398496838,0 17.78141593264757,50.63634970059614,0 17.78108082748081,50.63643719905511,0 17.78104020749234,50.63644462253077,0 17.78099944193589,50.63644617859234,0 17.78096974420969,50.63643998576141,0 17.78093967573534,50.63642804622208,0 17.77886838085646,50.63548613240216,0 17.77876778680158,50.63542117482,0 17.77871823657999,50.63538331654658,0 17.77868693066741,50.63534393852409,0 17.77867713139711,50.63530887313879,0 17.77868342424658,50.63527596232052,0 17.7787238777332,50.635207218034,0 17.77875140833865,50.63517594750247,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="B43FF863B5433F417EFC">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>APN</name>
+			<styleUrl>#__managed_style_0981766709433F3ED423</styleUrl>
+			<Placemark id="CB7DA2FA5C433F417EFC">
+				<name>APN 1</name>
+				<LookAt>
+					<longitude>17.78600698539407</longitude>
+					<latitude>50.62781124544328</latitude>
+					<altitude>186.7746167849438</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>58.46656634898864</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78520395437064,50.62740695212391,0 17.78544427143882,50.62716783408684,0 17.78634523452702,50.62757829161684,0 17.78636417883626,50.62758705028738,0 17.78609261469886,50.62781235402612,0 17.78606029599213,50.62779656208005,0 17.7859517887733,50.62788918437423,0 17.78587853567561,50.62785694274955,0 17.78598618760854,50.62776287765669,0 17.78520395437064,50.62740695212391,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="D738042EFC433F417EFC">
+				<name>APN HEMS</name>
+				<LookAt>
+					<longitude>17.7824752627049</longitude>
+					<latitude>50.635958791371</latitude>
+					<altitude>180.1246972182356</altitude>
+					<heading>0.1790492871386189</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>136.0810862218568</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78219621419965,50.63578078233135,0 17.78239530591959,50.6357271861603,0 17.78243818817565,50.6357880597207,0 17.78249322636945,50.63577377484787,0 17.78245193402597,50.63570819634484,0 17.78257235909727,50.63567626936842,0 17.78254333346447,50.63562928252806,0 17.78262800787611,50.63560735986158,0 17.78280012130782,50.6358682988867,0 17.7828072024382,50.63587940473815,0 17.78281425987587,50.63588439477104,0 17.78282570191083,50.63588492626377,0 17.78287497868427,50.63587479524226,0 17.7830218550025,50.63613713959748,0 17.78278823771023,50.63619371936937,0 17.782797032905,50.63614696819427,0 17.78285655744696,50.63613320415954,0 17.78274058048568,50.63595044434058,0 17.78236485348477,50.63603839755128,0 17.78219621419965,50.63578078233135,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="EF25235671433F417EFC">
+				<name>APN 2</name>
+				<LookAt>
+					<longitude>17.78147399751146</longitude>
+					<latitude>50.63626876362232</latitude>
+					<altitude>179.9285889867097</altitude>
+					<heading>340.4038198016732</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>184.8484240619655</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78165546556061,50.63638127646043,0 17.78154601760259,50.63621423774324,0 17.78149480273718,50.63622588969248,0 17.7814315606216,50.63612523781965,0 17.78148464165125,50.63611207318664,0 17.78141542242026,50.63601232345577,0 17.78136761292184,50.6360258219573,0 17.78130254571754,50.63592643168328,0 17.78145797756675,50.6358869676317,0 17.78151943674012,50.63598581700024,0 17.78147546559226,50.63599685077512,0 17.78153529862717,50.63610010857647,0 17.78159096451958,50.6360870762843,0 17.78165069976557,50.63618706451066,0 17.78159990516788,50.6362010812015,0 17.78167020870891,50.63630288565212,0 17.78186543384685,50.63625033874747,0 17.78183768399063,50.63619730365223,0 17.78188655620013,50.63618787631145,0 17.78195490574396,50.63630107008409,0 17.78196158079898,50.63630684297911,0 17.78197109807779,50.63631091944918,0 17.78198255226497,50.63631322868342,0 17.78199475363526,50.63631228737096,0 17.78203475700438,50.63630633254231,0 17.78207992098094,50.63637860437508,0 17.78190096704561,50.63641802237974,0 17.78183066368034,50.63631680770381,0 17.78187640611706,50.63630323699796,0 17.78188509748416,50.63629453507624,0 17.78188847247477,50.63628622335123,0 17.7818874111792,50.63627978567006,0 17.78188153071854,50.63627438608506,0 17.78168173961588,50.63632672820058,0 17.78171180640154,50.63636693709345,0 17.78165546556061,50.63638127646043,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="FBF20F4B2F433F417EFC">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>Buildings</name>
+			<styleUrl>#__managed_style_0981766709433F3ED423</styleUrl>
+			<Placemark id="10E8C401CF8433F417EFC">
+				<name>Building 1</name>
+				<LookAt>
+					<longitude>17.78572441394532</longitude>
+					<latitude>50.62734443793602</latitude>
+					<altitude>189.4814859356437</altitude>
+					<heading>2.648691151386395e-09</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>257.8740863647909</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78528252088639,50.62709539915085,0 17.78539454594486,50.62698830314267,0 17.78549894026497,50.62703219152741,0 17.78569021479642,50.62687513225033,0 17.78655395552654,50.62727579442837,0 17.78625523872499,50.62753760417629,0 17.78528252088639,50.62709539915085,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="1190729EF8B433F417EFC">
+				<name>Building 2</name>
+				<LookAt>
+					<longitude>17.78642035940734</longitude>
+					<latitude>50.62765959712686</latitude>
+					<altitude>188.0473148305359</altitude>
+					<heading>0</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>91.19185327862397</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78606007857691,50.62779535751176,0 17.78609216495506,50.62781133687793,0 17.78637166175101,50.62757887735147,0 17.78653543995447,50.62765304594615,0 17.78616055555722,50.62798393859715,0 17.78595030823941,50.62788873074197,0 17.78606007857691,50.62779535751176,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="12BE5224465433F417EFC">
+				<name>Building 3</name>
+				<LookAt>
+					<longitude>17.7820142808552</longitude>
+					<latitude>50.63645227492812</latitude>
+					<altitude>179.3848295899897</altitude>
+					<heading>0.179049291384794</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>135.7039055586756</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78167156208972,50.63653097311152,0 17.78158368631508,50.63639963552991,0 17.7818076427008,50.63634263022788,0 17.78189195311715,50.63647235119463,0 17.78167156208972,50.63653097311152,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="135FD8137AF433F417EFC">
+				<name>HEMS</name>
+				<LookAt>
+					<longitude>17.78283537877702</longitude>
+					<latitude>50.63610806776515</latitude>
+					<altitude>179.802433766082</altitude>
+					<heading>0.1790492918305814</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>100.1627720828219</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78248322633611,50.63622280646344,0 17.78236417027684,50.63603776230684,0 17.78274052879311,50.63595008257793,0 17.78285813037175,50.63613329331975,0 17.78248322633611,50.63622280646344,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="148FD5EFCBB433F417EFC">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>Taxilanes</name>
+			<styleUrl>#__managed_style_0981766709433F3ED423</styleUrl>
+			<Placemark id="152E45A2508433F417EFC">
+				<name>TLOF 1</name>
+				<LookAt>
+					<longitude>17.78263552323794</longitude>
+					<latitude>50.6357601238819</latitude>
+					<altitude>180.1246806428003</altitude>
+					<heading>0.1790492893207377</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>42.45028892900336</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78267821149378,50.6357025302332,0 17.78268489219593,50.63570755727087,0 17.78269076384699,50.63571297542254,0 17.78269576989976,50.63571873250844,0 17.7826998621432,50.63572477308468,0 17.78270300116678,50.63573103897722,0 17.78270515673999,50.63573746984208,0 17.78270630810346,50.63574400374652,0 17.78270644416896,50.63575057776548,0 17.78270556362608,50.63575712858755,0 17.78270367495494,50.63576359312473,0 17.78270079634447,50.63576990912,0 17.78269695551728,50.63577601574687,0 17.78269218946261,50.63578185419519,0 17.78268654408019,50.6357873682375,0 17.78268007373814,50.63579250477057,0 17.78267284074937,50.63579721432677,0 17.78266491477154,50.63580145155051,0 17.78265637213614,50.635805175635,0 17.78264729511342,50.63580835071527,0 17.78263777112006,50.63581094621357,0 17.78262789187734,50.63581293713383,0 17.78261775252775,50.63581430430239,0 17.78260745071879,50.63581503455267,0 17.78259708566249,50.63581512085197,0 17.78258675718002,50.63581456236918,0 17.78257656474032,50.63581336448279,0 17.78256660650214,50.6358115387291,0 17.78255697836877,50.63580910269113,0 17.78254777306438,50.63580607982923,0 17.78253907924111,50.63580249925523,0 17.78253098062521,50.63579839545201,0 17.78252355521078,50.63579380794147,0 17.78251687450863,50.63578878090379,0 17.78251100285757,50.63578336275212,0 17.7825059968048,50.63577760566622,0 17.78250190456136,50.63577156508998,0 17.78249876553778,50.63576529919744,0 17.78249660996457,50.63575886833257,0 17.7824954586011,50.63575233442812,0 17.78249532253561,50.63574576040918,0 17.78249620307848,50.63573920958711,0 17.78249809174962,50.63573274504993,0 17.78250097036009,50.63572642905466,0 17.78250481118728,50.63572032242779,0 17.78250957724195,50.63571448397946,0 17.78251522262437,50.63570896993716,0 17.78252169296642,50.63570383340409,0 17.78252892595519,50.63569912384789,0 17.78253685193302,50.63569488662415,0 17.78254539456842,50.63569116253966,0 17.78255447159114,50.63568798745939,0 17.7825639955845,50.63568539196109,0 17.78257387482722,50.63568340104084,0 17.78258401417681,50.63568203387227,0 17.78259431598577,50.63568130362199,0 17.78260468104207,50.63568121732268,0 17.78261500952454,50.63568177580548,0 17.78262520196424,50.63568297369186,0 17.78263516020242,50.63568479944556,0 17.78264478833579,50.63568723548352,0 17.78265399364018,50.63569025834543,0 17.78266268746345,50.63569383891942,0 17.78267078607935,50.63569794272263,0 17.78267821149378,50.6357025302332,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="16E418C82BF433F417EFC">
+				<name>TLOF 2</name>
+				<LookAt>
+					<longitude>17.78242995822745</longitude>
+					<latitude>50.63581179624691</latitude>
+					<altitude>180.1246629526221</altitude>
+					<heading>0.1790492892148886</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>42.4503092094028</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78239530224618,50.63578266665208,0 17.78240016104859,50.6357862134034,0 17.7824044483365,50.63579004513384,0 17.78240812282096,50.63579412494175,0 17.7824111491147,50.63579841353637,0 17.78241349807283,50.63580286961618,0 17.78241514707363,50.63580745026666,0 17.7824160802363,50.6358121113737,0 17.78241628857398,50.63581680804825,0 17.78241577008026,50.63582149505879,0 17.78241452974852,50.63582612726684,0 17.78241257952384,50.63583066006169,0 17.78240993818794,50.63583504979006,0 17.78240663117833,50.63583925417647,0 17.78240269034332,50.63584323273037,0 17.78239815363532,50.63584694713612,0 17.78239306474529,50.63585036162194,0 17.78238747268203,50.63585344330451,0 17.78238143130016,50.6358561625055,0 17.78237499878149,50.63585849303753,0 17.78236823707471,50.63586041245633,0 17.78236121129873,50.63586190227681,0 17.78235398911562,50.63586294815119,0 17.78234664007896,50.63586354000714,0 17.78233923496398,50.63586367214475,0 17.78233184508599,50.63586334329149,0 17.78232454161356,50.63586255661437,0 17.78231739488311,50.63586131968954,0 17.78231047372157,50.63585964442924,0 17.7823038447835,50.63585754696715,0 17.78229757190921,50.635855047503,0 17.7822917155099,50.63585217010795,0 17.78228633198589,50.63584894249294,0 17.78228147318348,50.63584539574163,0 17.78227718589558,50.63584156401119,0 17.78227351141111,50.63583748420326,0 17.78227048511738,50.63583319560864,0 17.78226813615924,50.63582873952885,0 17.78226648715845,50.63582415887835,0 17.78226555399577,50.63581949777132,0 17.7822653456581,50.63581480109676,0 17.78226586415181,50.63581011408623,0 17.78226710448355,50.63580548187818,0 17.78226905470823,50.63580094908333,0 17.78227169604413,50.63579655935497,0 17.78227500305374,50.63579235496855,0 17.78227894388875,50.63578837641466,0 17.78228348059676,50.6357846620089,0 17.78228856948679,50.63578124752307,0 17.78229416155005,50.63577816584051,0 17.78230020293192,50.63577544663951,0 17.78230663545058,50.63577311610748,0 17.78231339715737,50.63577119668869,0 17.78232042293335,50.63576970686822,0 17.78232764511645,50.63576866099383,0 17.78233499415311,50.63576806913789,0 17.78234239926809,50.63576793700027,0 17.78234978914608,50.63576826585353,0 17.78235709261851,50.63576905253064,0 17.78236423934896,50.63577028945549,0 17.78237116051051,50.63577196471579,0 17.78237778944857,50.63577406217787,0 17.78238406232287,50.63577656164203,0 17.78238991872218,50.63577943903707,0 17.78239530224618,50.63578266665208,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="1778426915F433F417EFC">
+				<name>FATO 1</name>
+				<LookAt>
+					<longitude>17.78223040357754</longitude>
+					<latitude>50.63539756472041</latitude>
+					<altitude>180.6679623184149</altitude>
+					<heading>0.1790492866846893</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>69.94207971760261</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78202041885539,50.63535269397373,0 17.78224704616222,50.63529821536252,0 17.78233591563084,50.63543983377361,0 17.78211009750572,50.63549438484543,0 17.78202041885539,50.63535269397373,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="18D5EDC12C0433F417EFC">
+				<name>FATO 2</name>
+				<LookAt>
+					<longitude>17.78223040357754</longitude>
+					<latitude>50.63539756472041</latitude>
+					<altitude>180.6679623184149</altitude>
+					<heading>0.1790492866826538</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>69.94207971760261</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								17.78222294753568,50.63541651478734,0 17.78212642284917,50.63541014378745,0 17.7821890828791,50.63535916707413,0 17.78222294753568,50.63541651478734,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="19D8EBCFF0A433F417EFC">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>TaxiwayLabels</name>
+			<styleUrl>#__managed_style_0981766709433F3ED423</styleUrl>
+			<Placemark id="1A1A7989B3F433F417EFC">
+				<name>FATO</name>
+				<LookAt>
+					<longitude>17.78223040357754</longitude>
+					<latitude>50.63539756472041</latitude>
+					<altitude>180.6679623184149</altitude>
+					<heading>0.1790492866826538</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>69.94207971760261</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.78217966849802,50.63539266686658,180.7876794685228</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1BF6185B30D433F417EFC">
+				<name>TLOF 1</name>
+				<LookAt>
+					<longitude>17.78245015201313</longitude>
+					<latitude>50.63578350101871</latitude>
+					<altitude>180.1246644111246</altitude>
+					<heading>0.179049286446529</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>70.48538582419496</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.78234099049227,50.63581113892115,180.1286737637614</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1C77CB2DD6C433F417EFC">
+				<name>TLOF 2</name>
+				<LookAt>
+					<longitude>17.78245015201313</longitude>
+					<latitude>50.63578350101871</latitude>
+					<altitude>180.1246644111246</altitude>
+					<heading>0.179049286446529</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>70.48538582419496</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.78260214340712,50.63574217466152,180.1246831523866</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1D1893238E3433F417EFC">
+				<name>C</name>
+				<LookAt>
+					<longitude>17.77953004686727</longitude>
+					<latitude>50.63532361006506</latitude>
+					<altitude>183.0785170837059</altitude>
+					<heading>340.4023028710229</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>459.6937976507616</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.77989633044056,50.63582462197895,182.3755469897749</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1E731BF0977433F417EFC">
+				<name>B</name>
+				<LookAt>
+					<longitude>17.78265038030997</longitude>
+					<latitude>50.63014215119433</latitude>
+					<altitude>184.4565921031777</altitude>
+					<heading>340.4043405706615</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>101.7547370836473</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.78247261380456,50.63008354205251,184.5881784659857</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1F8BF39CAE3433F417EFC">
+				<name>A</name>
+				<LookAt>
+					<longitude>17.78491385152181</longitude>
+					<latitude>50.62822715868533</latitude>
+					<altitude>186.2657867476856</altitude>
+					<heading>340.4059553320384</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>103.7249257396252</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.78488187641135,50.62819562115782,186.3227209827901</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="20367896351433F417EFC">
+				<name>31</name>
+				<LookAt>
+					<longitude>17.78483910496096</longitude>
+					<latitude>50.63005256099294</latitude>
+					<altitude>184.0123230341045</altitude>
+					<heading>340.4044565987101</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>60.20616106893614</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.78483837829848,50.63010749437407,184.0130642037666</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2140CBBD311433F417EFC">
+				<name>13</name>
+				<LookAt>
+					<longitude>17.77851827769127</longitude>
+					<latitude>50.63502628696217</latitude>
+					<altitude>184.046702382513</altitude>
+					<heading>340.39933302331</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>67.23859817308039</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.77845684244497,50.63501218918766,184.0466955356148</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="22389384176433F417EFC">
+				<name>25</name>
+				<LookAt>
+					<longitude>17.78553120623183</longitude>
+					<latitude>50.63293778851512</latitude>
+					<altitude>180.5642096551435</altitude>
+					<heading>340.4032748064157</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>154.0327395435816</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.78541523147605,50.63288159687486,180.6811658543627</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="233BAB612BE433F417EFC">
+				<name>07</name>
+				<LookAt>
+					<longitude>17.7754793999435</longitude>
+					<latitude>50.63114609950389</latitude>
+					<altitude>188.9491696326478</altitude>
+					<heading>340.3965741400217</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>87.25087334908494</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.77533791957059,50.63106945484358,188.9491686664429</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="246F58003A7433F417EFC">
+			<ex:extension>base64;GgA</ex:extension>
+			<name>BuildingLabels</name>
+			<styleUrl>#__managed_style_0981766709433F3ED423</styleUrl>
+			<Placemark id="25E168219A9433F417EFC">
+				<name>AEROKLUB</name>
+				<LookAt>
+					<longitude>17.78632897964016</longitude>
+					<latitude>50.62770253939863</latitude>
+					<altitude>187.6396558618575</altitude>
+					<heading>0.1790492898845874</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>166.8265773805797</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.78627508865203,50.62776044532404,187.1683111241042</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="269E5FCFDD6433F417EFC">
+				<name>HEMS</name>
+				<LookAt>
+					<longitude>17.78272420566406</longitude>
+					<latitude>50.63616115865018</latitude>
+					<altitude>179.7251089799402</altitude>
+					<heading>0.1790492895568625</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>119.4443097006115</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.78263366438711,50.63608373217524,179.8694654191095</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="27A25766D4E433F417EFC">
+				<name>HANGAR</name>
+				<LookAt>
+					<longitude>17.78147966665601</longitude>
+					<latitude>50.63622284644843</latitude>
+					<altitude>179.9291186381433</altitude>
+					<heading>340.4037636409801</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>171.735152550591</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_08C5F3F231433F3ED424</styleUrl>
+				<Point>
+					<coordinates>17.78175153240125,50.63643145275221,179.6161118048078</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
