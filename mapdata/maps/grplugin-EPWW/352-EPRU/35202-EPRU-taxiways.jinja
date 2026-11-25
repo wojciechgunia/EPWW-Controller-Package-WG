@@ -1,0 +1,8 @@
+MAP:Taxiways
+AIRPORT:EPRU,EPWW
+FOLDER:Airport Layout
+ACTIVE:1
+
+{% for name, geom in data.epru_kml['TWY'].items() %}
+    {{- geom | to_poly(name, 'taxiway') }}
+{% endfor %}
