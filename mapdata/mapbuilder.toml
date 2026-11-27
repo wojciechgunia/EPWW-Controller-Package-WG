@@ -20,6 +20,11 @@ type = "kml"
 source = "kml/EPBY.kml"
 root = "EPBY"
 
+[data.epcd_kml]
+type = "kml"
+source = "kml/EPCD.kml"
+root = "EPCD"
+
 [data.epel_kml]
 type = "kml"
 source = "kml/EPEL.kml"
@@ -50,10 +55,25 @@ type = "kml"
 source = "kml/EPJA.kml"
 root = "EPJA"
 
+[data.epjg_kml]
+type = "kml"
+source = "kml/EPJG.kml"
+root = "EPJG"
+
+[data.epjs_kml]
+type = "kml"
+source = "kml/EPJS.kml"
+root = "EPJS"
+
 [data.epka_kml]
 type = "kml"
 source = "kml/EPKA.kml"
 root = "EPKA"
+
+[data.epkc_kml]
+type = "kml"
+source = "kml/EPKC.kml"
+root = "EPKC"
 
 [data.epki_kml]
 type = "kml"
@@ -85,6 +105,16 @@ type = "kml"
 source = "kml/EPKT.kml"
 root = "EPKT"
 
+[data.epkw_kml]
+type = "kml"
+source = "kml/EPKW.kml"
+root = "EPKW"
+
+[data.epkx_kml]
+type = "kml"
+source = "kml/EPKX.kml"
+root = "EPKX"
+
 [data.eplb_kml]
 type = "kml"
 source = "kml/EPLB.kml"
@@ -105,6 +135,11 @@ type = "kml"
 source = "kml/EPLS.kml"
 root = "EPLS"
 
+[data.eplu_kml]
+type = "kml"
+source = "kml/EPLU.kml"
+root = "EPLU"
+
 [data.epml_kml]
 type = "kml"
 source = "kml/EPML.kml"
@@ -114,6 +149,11 @@ root = "EPML"
 type = "kml"
 source = "kml/EPMO.kml"
 root = "EPMO"
+
+[data.epmr_kml]
+type = "kml"
+source = "kml/EPMR.kml"
+root = "EPMR"
 
 [data.epnc_kml]
 type = "kml"
@@ -134,6 +174,16 @@ root = "EPNT"
 type = "kml"
 source = "kml/EPOD.kml"
 root = "EPOD"
+
+[data.epom_kml]
+type = "kml"
+source = "kml/EPOM.kml"
+root = "EPOM"
+
+[data.epop_kml]
+type = "kml"
+source = "kml/EPOP.kml"
+root = "EPOP"
 
 [data.eppg_kml]
 type = "kml"
@@ -170,10 +220,30 @@ type = "kml"
 source = "kml/EPRA.kml"
 root = "EPRA"
 
+[data.eprg_kml]
+type = "kml"
+source = "kml/EPRG.kml"
+root = "EPRG"
+
+[data.eprp_kml]
+type = "kml"
+source = "kml/EPRP.kml"
+root = "EPRP"
+
+[data.epru_kml]
+type = "kml"
+source = "kml/EPRU.kml"
+root = "EPRU"
+
 [data.eprz_kml]
 type = "kml"
 source = "kml/EPRZ.kml"
 root = "EPRZ"
+
+[data.epsa_kml]
+type = "kml"
+source = "kml/EPSA.kml"
+root = "EPSA"
 
 [data.epsc_kml]
 type = "kml"
@@ -184,6 +254,16 @@ root = "EPSC"
 type = "kml"
 source = "kml/EPSD.kml"
 root = "EPSD"
+
+[data.epss_kml]
+type = "kml"
+source = "kml/EPSS.kml"
+root = "EPSS"
+
+[data.epst_kml]
+type = "kml"
+source = "kml/EPST.kml"
+root = "EPST"
 
 [data.epsy_kml]
 type = "kml"
@@ -209,6 +289,11 @@ root = "EPWR"
 type = "kml"
 source = "kml/EPWS.kml"
 root = "EPWS"
+
+[data.epza_kml]
+type = "kml"
+source = "kml/EPZA.kml"
+root = "EPZA"
 
 [data.epzg_kml]
 type = "kml"
