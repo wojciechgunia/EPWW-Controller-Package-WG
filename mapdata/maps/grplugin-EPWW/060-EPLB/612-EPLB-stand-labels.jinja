@@ -7,5 +7,5 @@ ACTIVE:1
 
 ZOOM:500
 {% for name, geom in data.eplb_kml['StandLabels'].items() %}
-    {{- geom | to_text(name) }}
+    {{- geom | to_text(name.split('#')[0]) }}
 {% endfor %}

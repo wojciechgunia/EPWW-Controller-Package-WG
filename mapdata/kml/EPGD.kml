@@ -4091,7 +4091,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>M</name>
+				<name>M#1</name>
 				<LookAt>
 					<gx:TimeStamp><when>2025-04-04</when>
 </gx:TimeStamp>
@@ -4115,7 +4115,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>M</name>
+				<name>M#2</name>
 				<LookAt>
 					<gx:TimeStamp><when>2025-04-04</when>
 </gx:TimeStamp>

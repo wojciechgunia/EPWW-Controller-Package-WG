@@ -1885,7 +1885,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>D</name>
+				<name>D#1</name>
 				<LookAt>
 					<longitude>14.89955328507588</longitude>
 					<latitude>53.58758975334697</latitude>
@@ -1902,7 +1902,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>D</name>
+				<name>D#2</name>
 				<LookAt>
 					<longitude>14.90099421314706</longitude>
 					<latitude>53.58865205932089</latitude>
@@ -1936,7 +1936,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>G</name>
+				<name>G#1</name>
 				<LookAt>
 					<longitude>14.90459235528004</longitude>
 					<latitude>53.58712271220941</latitude>
@@ -1953,7 +1953,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>G</name>
+				<name>G#2</name>
 				<LookAt>
 					<longitude>14.90562505702798</longitude>
 					<latitude>53.58775973198605</latitude>
@@ -2028,7 +2028,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>R</name>
+				<name>R#1</name>
 				<LookAt>
 					<longitude>14.90787351189791</longitude>
 					<latitude>53.58410550875847</latitude>
@@ -2045,7 +2045,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>R</name>
+				<name>R#2</name>
 				<LookAt>
 					<longitude>14.89764179542495</longitude>
 					<latitude>53.59007647766442</latitude>
@@ -2062,7 +2062,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>R</name>
+				<name>R#3</name>
 				<LookAt>
 					<longitude>14.91717027212668</longitude>
 					<latitude>53.57940497479612</latitude>
@@ -2079,7 +2079,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>R</name>
+				<name>R#4</name>
 				<LookAt>
 					<longitude>14.89265266414151</longitude>
 					<latitude>53.59206792663206</latitude>

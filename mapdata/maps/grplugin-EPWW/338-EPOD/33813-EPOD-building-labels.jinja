@@ -6,5 +6,5 @@ FONTSIZE:=:10
 
 ZOOM:500
 {% for name, geom in data.epod_kml['BuildingLabels'].items() %}
-    {{- geom | to_text(name) }}
+    {{- geom | to_text(name.split('#')[0]) }}
 {% endfor %}

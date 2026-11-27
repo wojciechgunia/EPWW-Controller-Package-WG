@@ -1456,7 +1456,7 @@
 			<name>StandLabels</name>
 			<visibility>0</visibility>
 			<Placemark>
-				<name>1</name>
+				<name>1#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-09-23</when>
@@ -1481,7 +1481,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>2</name>
+				<name>2#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-09-23</when>
@@ -1506,7 +1506,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>3</name>
+				<name>3#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-09-23</when>
@@ -1531,7 +1531,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>5</name>
+				<name>5#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-09-23</when>
@@ -1681,7 +1681,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>1</name>
+				<name>1#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-09-23</when>
@@ -1706,7 +1706,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>2</name>
+				<name>2#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-09-23</when>
@@ -1731,7 +1731,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>3</name>
+				<name>3#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-09-23</when>
@@ -1781,7 +1781,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>5</name>
+				<name>5#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-09-23</when>
@@ -1860,7 +1860,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangar</name>
+				<name>Hangar#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-09-23</when>
@@ -1885,7 +1885,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangar</name>
+				<name>Hangar#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-09-23</when>
@@ -1910,7 +1910,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangar</name>
+				<name>Hangar#3</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-09-23</when>

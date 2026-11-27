@@ -7,7 +7,7 @@ ACTIVE:1
 
 ZOOM:500
 {% for name, geom in data.epwa_kml['StandLabels'].items() %}
-    {{- geom | to_text(name) }}
+    {{- geom | to_text(name.split('#')[0]) }}
 {% endfor %}
 
 MAP:Stands Alternate
@@ -18,5 +18,5 @@ FONTSIZE:=:10
 ACTIVE:1
 ZOOM:800
 {% for name, geom in data.epwa_kml['StandLabelsZoom'].items() %}
-    {{- geom | to_text(name) }}
+    {{- geom | to_text(name.split('#')[0]) }}
 {% endfor %}

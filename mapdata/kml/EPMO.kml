@@ -3612,7 +3612,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangar</name>
+				<name>Hangar#1</name>
 				<LookAt>
 					<gx:TimeStamp><when>2024-05-24</when>
 </gx:TimeStamp>
@@ -3636,7 +3636,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangar</name>
+				<name>Hangar#2</name>
 				<LookAt>
 					<gx:TimeStamp><when>2022-07-21</when>
 </gx:TimeStamp>

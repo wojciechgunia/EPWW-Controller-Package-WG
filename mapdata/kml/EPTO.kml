@@ -1073,7 +1073,7 @@
 				</Point>
 			</Placemark>
 			<Placemark id="351F3A60B484324963724">
-				<name>HANGARS</name>
+				<name>HANGARS#1</name>
 				<LookAt>
 					<longitude>18.56067503449099</longitude>
 					<latitude>53.02888691042892</latitude>
@@ -1090,7 +1090,7 @@
 				</Point>
 			</Placemark>
 			<Placemark id="362F0E8041D4324963724">
-				<name>HANGARS</name>
+				<name>HANGARS#2</name>
 				<LookAt>
 					<longitude>18.56067503449099</longitude>
 					<latitude>53.02888691042892</latitude>

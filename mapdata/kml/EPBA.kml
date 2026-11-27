@@ -484,14 +484,14 @@
 				</Point>
 			</Placemark>
 			<Placemark id="27696D0B06D432E7C017F">
-				<name>HANGAR</name>
+				<name>HANGAR#1</name>
 				<styleUrl>#__managed_style_157F5B1BDA432E7B4FAC</styleUrl>
 				<Point>
 					<coordinates>19.00028333333333,49.80660833333333,0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark id="2814646B5B6432E7C017F">
-				<name>HANGAR</name>
+				<name>HANGAR#2</name>
 				<styleUrl>#__managed_style_157F5B1BDA432E7B4FAC</styleUrl>
 				<Point>
 					<coordinates>18.9981,49.80665,0</coordinates>

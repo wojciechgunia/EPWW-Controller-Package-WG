@@ -93,7 +93,7 @@ FONTSIZE:=:10
 
 COLOR:labels-twy
 {% for name, geom in data.eprz_kml['TaxiwayLabels EPRJ'].items() %}
-    {{- geom | to_text(name) }}
+    {{- geom | to_text(name.split('#')[0]) }}
 {% endfor %}
 
 MAP:Stands EPRJ
@@ -105,7 +105,7 @@ ACTIVE:1
 
 ZOOM:500
 {% for name, geom in data.eprz_kml['StandLabels EPRJ'].items() %}
-    {{- geom | to_text(name) }}
+    {{- geom | to_text(name.split('#')[0]) }}
 {% endfor %}
 
 MAP:Buildings EPRJ
@@ -116,5 +116,5 @@ FONTSIZE:=:10
 
 ZOOM:500
 {% for name, geom in data.eprz_kml['BuildingLabels EPRJ'].items() %}
-    {{- geom | to_text(name) }}
+    {{- geom | to_text(name.split('#')[0]) }}
 {% endfor %}

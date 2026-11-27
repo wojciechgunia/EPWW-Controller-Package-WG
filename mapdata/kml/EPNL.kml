@@ -311,7 +311,7 @@
 		<Folder>
 			<name>BuildingLabels</name>
 			<Placemark>
-				<name>Hangars</name>
+				<name>Hangars#1</name>
 				<LookAt>
 					<longitude>20.62329470746798</longitude>
 					<latitude>49.74543907493425</latitude>
@@ -328,7 +328,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangars</name>
+				<name>Hangars#2</name>
 				<LookAt>
 					<longitude>20.62329470746798</longitude>
 					<latitude>49.74543907493425</latitude>

@@ -2950,7 +2950,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>G</name>
+				<name>G#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2025-10-02</when>
@@ -2975,7 +2975,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>G</name>
+				<name>G#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2025-10-02</when>
@@ -3000,7 +3000,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>H</name>
+				<name>H#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2025-10-02</when>
@@ -3025,7 +3025,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>H</name>
+				<name>H#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2025-10-02</when>
@@ -3175,7 +3175,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>M</name>
+				<name>M#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2025-10-02</when>
@@ -3200,7 +3200,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>M</name>
+				<name>M#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2025-10-02</when>
@@ -3225,7 +3225,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>M</name>
+				<name>M#3</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2025-10-02</when>
@@ -3858,7 +3858,7 @@
 			<name>BuildingLabels</name>
 			<visibility>0</visibility>
 			<Placemark>
-				<name>Hangar</name>
+				<name>Hangar#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2025-10-02</when>
@@ -3883,7 +3883,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangar</name>
+				<name>Hangar#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2025-10-02</when>
@@ -3908,7 +3908,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangar</name>
+				<name>Hangar#3</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2025-10-02</when>

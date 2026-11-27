@@ -3961,7 +3961,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>A3</name>
+				<name>A3#1</name>
 				<LookAt>
 					<gx:TimeStamp><when>2024-05-04</when>
 </gx:TimeStamp>
@@ -3985,7 +3985,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>A3</name>
+				<name>A3#2</name>
 				<LookAt>
 					<gx:TimeStamp><when>2024-05-04</when>
 </gx:TimeStamp>
@@ -4320,7 +4320,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>E3</name>
+				<name>E3#1</name>
 				<LookAt>
 					<gx:TimeStamp><when>2024-05-04</when>
 </gx:TimeStamp>
@@ -4344,7 +4344,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>E3</name>
+				<name>E3#2</name>
 				<LookAt>
 					<gx:TimeStamp><when>2024-05-04</when>
 </gx:TimeStamp>

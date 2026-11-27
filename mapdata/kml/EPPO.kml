@@ -3245,7 +3245,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>B</name>
+				<name>B#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3272,7 +3272,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>B</name>
+				<name>B#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3326,7 +3326,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>D2</name>
+				<name>D2#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3353,7 +3353,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>D2</name>
+				<name>D2#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3380,7 +3380,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>G</name>
+				<name>G#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3407,7 +3407,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>G</name>
+				<name>G#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3434,7 +3434,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>G</name>
+				<name>G#3</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3789,7 +3789,7 @@
 			<name>StandLabels</name>
 			<visibility>0</visibility>
 			<Placemark>
-				<name>1</name>
+				<name>1#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3816,7 +3816,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>2</name>
+				<name>2#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3870,7 +3870,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>3</name>
+				<name>3#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -3951,7 +3951,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>4</name>
+				<name>4#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -4032,7 +4032,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>5</name>
+				<name>5#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -4113,7 +4113,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>6</name>
+				<name>6#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -4140,7 +4140,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>7</name>
+				<name>7#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -4167,7 +4167,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>8</name>
+				<name>8#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -4194,7 +4194,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>9</name>
+				<name>9#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -4221,7 +4221,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>10</name>
+				<name>10#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -4248,7 +4248,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>11</name>
+				<name>11#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -4977,7 +4977,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>1</name>
+				<name>1#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -5031,7 +5031,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>2</name>
+				<name>2#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -5112,7 +5112,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>3</name>
+				<name>3#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -5139,7 +5139,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>4</name>
+				<name>4#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -5166,7 +5166,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>5</name>
+				<name>5#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -5193,7 +5193,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>6</name>
+				<name>6#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -5220,7 +5220,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>7</name>
+				<name>7#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -5247,7 +5247,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>8</name>
+				<name>8#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -5274,7 +5274,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>9</name>
+				<name>9#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -5301,7 +5301,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>10</name>
+				<name>10#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>
@@ -5328,7 +5328,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>11</name>
+				<name>11#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeSpan>

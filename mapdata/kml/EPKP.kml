@@ -936,7 +936,7 @@
 			<name>BuildingLabels</name>
 			<styleUrl>#__managed_style_0D31C54CC74325463DFE</styleUrl>
 			<Placemark id="2DB6157E9FC4325463DE9">
-				<name>HANGARS</name>
+				<name>HANGARS#1</name>
 				<LookAt>
 					<longitude>20.19719943577985</longitude>
 					<latitude>50.08433915742975</latitude>
@@ -953,7 +953,7 @@
 				</Point>
 			</Placemark>
 			<Placemark id="2E485C52D3B4325463DE9">
-				<name>HANGARS</name>
+				<name>HANGARS#2</name>
 				<LookAt>
 					<longitude>20.19948318219347</longitude>
 					<latitude>50.08431365769358</latitude>

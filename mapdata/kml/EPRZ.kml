@@ -3643,7 +3643,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>N</name>
+				<name>N#1</name>
 				<LookAt>
 					<longitude>22.05234814630339</longitude>
 					<latitude>50.10325195745675</latitude>
@@ -3660,7 +3660,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>N</name>
+				<name>N#2</name>
 				<LookAt>
 					<longitude>22.04398078344515</longitude>
 					<latitude>50.10377211158369</latitude>
@@ -3677,7 +3677,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>N</name>
+				<name>N#3</name>
 				<LookAt>
 					<longitude>22.04753391017005</longitude>
 					<latitude>50.10393488033289</latitude>
@@ -3785,7 +3785,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangar</name>
+				<name>Hangar#1</name>
 				<LookAt>
 					<longitude>22.05342970829008</longitude>
 					<latitude>50.10197502539382</latitude>
@@ -3802,7 +3802,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangar</name>
+				<name>Hangar#2</name>
 				<LookAt>
 					<longitude>22.05303402218738</longitude>
 					<latitude>50.10181702142035</latitude>

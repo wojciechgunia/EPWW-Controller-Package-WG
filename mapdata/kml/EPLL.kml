@@ -2106,7 +2106,7 @@
 			<name>TaxiwayLabels</name>
 			<visibility>0</visibility>
 			<Placemark>
-				<name>A</name>
+				<name>A#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-03-14</when>
@@ -2131,7 +2131,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>A</name>
+				<name>A#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-03-14</when>
@@ -2664,7 +2664,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangars</name>
+				<name>Hangars#1</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-03-14</when>
@@ -2689,7 +2689,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>Hangars</name>
+				<name>Hangars#2</name>
 				<visibility>0</visibility>
 				<LookAt>
 					<gx:TimeStamp><when>2024-03-14</when>

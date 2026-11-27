@@ -663,7 +663,7 @@
 				</Point>
 			</Placemark>
 			<Placemark id="25825E3BC1B4338F393E1">
-				<name>Politechnika Warszawska</name>
+				<name>Politechnika Warszawska#1</name>
 				<LookAt>
 					<longitude>20.93108948733016</longitude>
 					<latitude>53.01370425160277</latitude>
@@ -680,7 +680,7 @@
 				</Point>
 			</Placemark>
 			<Placemark id="26FEF6BACC24338F393E1">
-				<name>Politechnika Warszawska</name>
+				<name>Politechnika Warszawska#2</name>
 				<LookAt>
 					<longitude>20.92609159594459</longitude>
 					<latitude>53.00947037896829</latitude>

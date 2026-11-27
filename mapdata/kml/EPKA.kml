@@ -953,7 +953,7 @@
 				</Point>
 			</Placemark>
 			<Placemark id="43C4AE092C74338F273A4">
-				<name>HANGAR</name>
+				<name>HANGAR#1</name>
 				<LookAt>
 					<longitude>20.72899412780843</longitude>
 					<latitude>50.9016273698694</latitude>
@@ -970,7 +970,7 @@
 				</Point>
 			</Placemark>
 			<Placemark id="44E2BA4272E4338F273A4">
-				<name>HANGAR</name>
+				<name>HANGAR#2</name>
 				<LookAt>
 					<longitude>20.72696227761826</longitude>
 					<latitude>50.90183477909352</latitude>

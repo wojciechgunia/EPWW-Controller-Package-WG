@@ -841,7 +841,7 @@
 			<name>BuildingLabels</name>
 			<styleUrl>#__managed_style_0FEC7A5770427E3F65AC</styleUrl>
 			<Placemark id="0DB9EBC124427EC198C4">
-				<name>APRON</name>
+				<name>APRON#1</name>
 				<LookAt>
 					<longitude>16.53090516721986</longitude>
 					<latitude>51.8342593470653</latitude>
@@ -858,7 +858,7 @@
 				</Point>
 			</Placemark>
 			<Placemark id="09D5E778CC427EC1D3E9">
-				<name>APRON</name>
+				<name>APRON#2</name>
 				<LookAt>
 					<longitude>16.52535998926184</longitude>
 					<latitude>51.83198229685491</latitude>

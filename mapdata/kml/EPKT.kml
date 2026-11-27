@@ -3515,7 +3515,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>T</name>
+				<name>T#1</name>
 				<LookAt>
 					<gx:TimeStamp><when>2025-04-14</when>
 </gx:TimeStamp>
@@ -3539,7 +3539,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<name>T</name>
+				<name>T#2</name>
 				<LookAt>
 					<gx:TimeStamp><when>2025-04-14</when>
 </gx:TimeStamp>

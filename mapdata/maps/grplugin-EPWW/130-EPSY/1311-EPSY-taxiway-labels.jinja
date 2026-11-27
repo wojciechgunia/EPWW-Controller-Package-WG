@@ -7,5 +7,5 @@ FONTSIZE:=:10
 
 COLOR:labels-twy
 {% for name, geom in data.epsy_kml['TaxiwayLabels'].items() %}
-    {{- geom | to_text(name) }}
+    {{- geom | to_text(name.split('#')[0]) }}
 {% endfor %}

@@ -748,7 +748,7 @@
 				</Point>
 			</Placemark>
 			<Placemark id="2837D3704544338F3C917">
-				<name>A</name>
+				<name>A#1</name>
 				<LookAt>
 					<longitude>15.46671751641095</longitude>
 					<latitude>51.97926424977033</latitude>
@@ -765,7 +765,7 @@
 				</Point>
 			</Placemark>
 			<Placemark id="29F722582C64338F3C917">
-				<name>A</name>
+				<name>A#2</name>
 				<LookAt>
 					<longitude>15.46329634276971</longitude>
 					<latitude>51.97667529147313</latitude>
